@@ -1,7 +1,5 @@
 #TIK-TAK-TOE
 
-Proiect realizat de Dumitrascu Ionut-Alexandru.
-
 1. Arhitectura de Date
 
     Structura: Folosirea unei matrice 3x3 de tip char pentru a stoca starea tablei de joc.
