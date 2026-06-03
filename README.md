@@ -10,17 +10,14 @@
 
     Sistemul de culori: Utilizarea codurilor ANSI pentru a schimba aspectul consolei.
 
-2. Interfața Vizuală (UI)
 
-    X este Roșu, 0 este Galben, iar fundalul este Albastru.
-
-3. Mecanica Jocului
+2. Mecanica Jocului
 
     Verificarea celor 8 linii posibile de câștig (orizontal, vertical, diagonal).
 
     Condiția de remiză când matricea este plină și nu există câștigător.
 
-4. Atribuții noi (posibil)
+3. Atribuții noi (posibil)
 
     Putere 1: abilitatea de a sterge caracterul celuilalt jucator si de a pune caracterul personal peste.
 
